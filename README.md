@@ -1,16 +1,11 @@
-# startbit
+# 四路巡线传感器扩展板
 
-Blocks for LOBOT startbit
+通过i2c口连接，不占用普通引脚。
 ## License
 
 MIT
 
-## Supported targets
+## Supported 
 
-* for PXT/startbit
-(The metadata above is needed for package search.)
-
-```package
-startbit=github:LOBOT-ROBOT/Startbit
-```
+* for imbot plusgit
 
